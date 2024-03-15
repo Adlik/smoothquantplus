@@ -2,7 +2,7 @@
 
 [[paper](https://arxiv.org/abs/2312.03788)] 
 
-4-bit weight-only quantization models for code llama  are released in [model zoo](https://github.com/Adlik/model_zoo/tree/main/smooth_quant_plus). You can use [Adlik/vllm](https://github.com/Adlik/vllm) to evaluate.
+4-bit weight-only quantization models for code llama  are released in [model zoo](https://github.com/Adlik/model_zoo/tree/main/smooth_quant_plus). You can use [Adlik/vllm](https://github.com/Adlik/vllm/tree/dev) to evaluate.
 
 We will release the code soon, please stay tuned.
 
